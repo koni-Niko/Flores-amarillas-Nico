@@ -6,10 +6,10 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "40 dias y 40 noches", time: 4 },
   { text: "Yo espere a un chico como tu para que me salvara", time: 7 },
-  { text: "Todos los dias yo espere por ti", time: 13 },
+  { text: "Todos los dias yo espere por ti", time: 15 },
   { text: "Sabes, aquellos que dijieron que", time: 16 },
   { text: "Nunca encontraria a alguien como tu", time: 21 },
-  { text: "Porque estas fuera de mi liga", time: 22 },
+  { text: "Porque estas fuera de mi liga", time: 23 },
   { text: "De todas las cosas que yo crei", time: 24 },
   { text: "Tu eres la mas perfecta", time: 26 },
   { text: "Si, tu eres mas que un sueño", time: 28 },
