@@ -16,7 +16,7 @@ var lyricsData = [
   { text: "Porque estas fuera de mi liga", time: 28 },
   { text: "Haces que mi corazon se acelere", time: 33 },
   { text: "Si me muero, no me despierten", time: 36 },
-  { text: "Porque eres mas que un sueño :3", time: 38 },
+  { text: "Porque eres mas que un sueño :3", time: 39},
   { text: "Where I'm now? I don't know why", time: 91 },
   { text: "Nice butterflies in my hands", time: 97 },
   { text: "Too much light for twilight", time: 104 },
