@@ -5,7 +5,7 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
   { text: "40 dias y 40 noches", time: 4 },
-  { text: "Yo espere a un chico como tu para que me salvara", time: 8 },
+  { text: "Yo espere a un chico como tu para que me salvara", time: 9 },
   { text: "Todos los dias yo espere por ti", time: 15 },
   { text: "Sabes, aquellos que dijieron que", time: 16 },
   { text: "Nunca encontraria a alguien como tu", time: 21 },
