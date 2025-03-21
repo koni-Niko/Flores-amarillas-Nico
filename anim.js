@@ -8,7 +8,7 @@ var lyricsData = [
   { text: "Yo espere a un chico como tu para que me salvara", time: 9 },
   { text: "Todos los dias yo espere por ti", time: 14 },
   { text: "Sabes, aquellos que dijieron que", time: 16 },
-  { text: "Nunca encontraria a alguien como tu", time: 18 },
+  { text: "Nunca encontraria a alguien como tu", time: 20 },
   { text: "Porque estas fuera de mi liga", time: 22 },
   { text: "De todas las cosas que yo crei", time: 23 },
   { text: "Tu eres la mas perfecta", time: 25 },
